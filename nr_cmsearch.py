@@ -2,6 +2,7 @@ import pickle
 import pandas as pd
 import sys
 import os
+import numpy as np
 
 def get_acc_num(str_in):
     acc_num = str_in.split('|')[1]
@@ -67,22 +68,19 @@ def nr_cmsearch(outfile):
 
                 # Get top hit only
                 fil = df.groupby('target_name')['E-value'].nsmallest(1)
-                fil.index = fil.index.droplevel()
-                base_fn = fn.split('_v_entero')[0]
-                fil.to_csv(base_fn + '_fil.csv')
                 
+                if isinstance(fil.index, pd.core.index.MultiIndex):
+                    fil.index = fil.index.droplevel()
+                                
                 tophit = df.loc[fil.index]
-                tophit.to_csv(base_fn + '_tophit.csv')
 
                 rdf = rdf.append(tophit)
 
         # Reset the index to cope with any duplicate indices
         rdf = rdf.reset_index()
-        rdf.to_csv('test_rdf.csv')
 
         # Drop column named 'index' (not the real index)
         rdf = rdf.drop(['index'], axis=1)
-        rdf.to_csv('test_rdf_fixed.csv')
         
         # Add columns to reflect minimum and maximum as start/end
         rdf['start'] = rdf[['seq_from','seq_to']].min(axis=1)
@@ -92,11 +90,17 @@ def nr_cmsearch(outfile):
         with open('srna_len.p', 'rb') as infile:
             srna_len = pickle.load(infile)
 
-        rdf['srna_orig_len'] = rdf['query_name'].map(srna_len)
+        # Put identifiers all in same column
+        rdf = rdf.replace({'query_accession': {'-': np.nan}})
+        rdf.query_accession = rdf.query_accession.fillna(rdf.query_name)
+
+        rdf['srna_orig_len'] = rdf['query_accession'].map(srna_len)
         rdf['targ_len'] = rdf['end'].astype(int) - rdf['start'].astype(int) + 1
         rdf['perc_coverage'] = rdf['targ_len']/rdf['srna_orig_len']
 
         rdf = rdf.drop(rdf[rdf.perc_coverage < 0.60].index)
+
+        rdf.to_pickle('full_tophit_results.p')
 
         # Identify and remove overlaps
         rdf_nr = rdf.groupby(['target_name', 'strand'], as_index=False).apply(compare_rows)
