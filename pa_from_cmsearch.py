@@ -59,7 +59,7 @@ def pa_matrix(search_results, assemblies_of_interest, refseqinfo):
         msa_records = []
         for i, val in pa_concat.iteritems():
             seq = Seq(str(val))
-            record = SeqRecord(seq, id=i, description=' ')
+            record = SeqRecord(seq, id=i, description='')
             msa_records.append(record)
         SeqIO.write(msa_records, msa_out, 'fasta')
 
