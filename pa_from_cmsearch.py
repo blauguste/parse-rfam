@@ -7,7 +7,7 @@ from Bio.SeqRecord import SeqRecord
 
 def pa_matrix(search_results, assemblies_of_interest, refseqinfo):
 
-    df = pickle.load(open(search_results, 'rb'))
+    df = pd.read_pickle(search_results)
     aoi = pickle.load(open(assemblies_of_interest, 'rb'))
     refdict = pickle.load(open(refseqinfo, 'rb'))
 
@@ -50,12 +50,15 @@ def pa_matrix(search_results, assemblies_of_interest, refseqinfo):
     # Prepare to convert pa matrix to fasta
     pa_concat = select.apply(lambda row: ''.join(map(str, row)), axis=1)
     
+    # Store columns for later use
+    sRNA_index = dict(zip(range(1, (select.shape[1]+ 1)), select.columns.values))
+
     # Set of records for fasta
     with open('msa_for_GLOOME.fa', 'w') as msa_out:
         msa_records = []
         for i, val in pa_concat.iteritems():
             seq = Seq(str(val))
-            record = SeqRecord(seq, id=i)
+            record = SeqRecord(seq, id=i, description=' ')
             msa_records.append(record)
         SeqIO.write(msa_records, msa_out, 'fasta')
 
