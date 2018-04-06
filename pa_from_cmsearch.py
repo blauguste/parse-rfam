@@ -52,6 +52,7 @@ def pa_matrix(search_results, assemblies_of_interest, refseqinfo):
     
     # Store columns for later use
     sRNA_index = dict(zip(range(1, (select.shape[1]+ 1)), select.columns.values))
+    pickle.dump(sRNA_index, open('sRNA_numbers.p', 'wb'))
 
     # Set of records for fasta
     with open('msa_for_GLOOME.fa', 'w') as msa_out:
