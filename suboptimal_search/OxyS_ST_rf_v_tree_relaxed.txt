@@ -1,0 +1,163 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+NC_006511.1          -         OxyS_ST_rf           -          cm        1      110  4116733  4116624      -    no    1 0.51   0.0  138.1     3e-30 !   Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome
+NC_011147.1          -         OxyS_ST_rf           -          cm        1      110  4112419  4112310      -    no    1 0.51   0.0  138.1     3e-30 !   Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 complete genome, strain AKU_12601
+NC_004631.1          -         OxyS_ST_rf           -          cm        1      110  3593878  3593987      +    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome
+NC_011274.1          -         OxyS_ST_rf           -          cm        1      110  3439355  3439464      +    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91 complete genome
+NC_003198.1          -         OxyS_ST_rf           -          cm        1      110  3608218  3608327      +    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+NC_016810.1          -         OxyS_ST_rf           -          cm        1      110  4364421  4364312      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Typhimurium SL1344 complete genome
+NC_011094.1          -         OxyS_ST_rf           -          cm        1      110  4210195  4210086      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome
+NC_012125.1          -         OxyS_ST_rf           -          cm        1      110  4316702  4316593      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome
+NC_011080.1          -         OxyS_ST_rf           -          cm        1      110  4334608  4334499      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome
+NC_011294.1          -         OxyS_ST_rf           -          cm        1      110  4215278  4215169      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Enteritidis str. P125109 complete genome
+NC_011205.1          -         OxyS_ST_rf           -          cm        1      110  4374055  4373946      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853, complete genome
+NC_006905.1          -         OxyS_ST_rf           -          cm        1      110  4277352  4277243      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome
+NC_011149.1          -         OxyS_ST_rf           -          cm        1      110  4261817  4261708      -    no    1 0.52   0.0  138.0   3.2e-30 !   Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome
+NC_010067.1          -         OxyS_ST_rf           -          cm        1      110  3469562  3469671      +    no    1 0.53   0.0  135.8   1.1e-29 !   Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome
+NC_011083.1          -         OxyS_ST_rf           -          cm        1      110  4339788  4339679      -    no    1 0.51   0.0  132.3   7.5e-29 !   Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome
+NC_009792.1          -         OxyS_ST_rf           -          cm        1      110  2809329  2809437      +    no    1 0.48   0.0  114.2   1.7e-24 !   Citrobacter koseri ATCC BAA-895, complete genome
+NC_013716.1          -         OxyS_ST_rf           -          cm        1      110  3985194  3985299      +    no    1 0.53   0.0  104.3   4.1e-22 !   Citrobacter rodentium ICC168, complete genome
+NC_011740.1          -         OxyS_ST_rf           -          cm        1      110  3892268  3892375      +    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia fergusonii ATCC 35469 chromosome, complete genome
+NC_007779.1          -         OxyS_ST_rf           -          cm        1      110  3478289  3478396      +    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli str. K-12 substr. W3110 DNA, complete genome
+NC_011750.1          -         OxyS_ST_rf           -          cm        1      110  3147564  3147671      +    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli IAI39 chromosome, complete genome
+NZ_CP005998.1        -         OxyS_ST_rf           -          cm        1      110  2816466  2816573      +    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli B7A, complete genome
+NC_010468.1          -         OxyS_ST_rf           -          cm        1      110  4473682  4473789      +    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli ATCC 8739, complete genome
+NC_012947.1          -         OxyS_ST_rf           -          cm        1      110  4275779  4275886      +    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli 'BL21-Gold(DE3)pLysS AG', complete genome
+NC_007384.1          -         OxyS_ST_rf           -          cm        1      110  4377787  4377680      -    no    1 0.49   0.0   96.1   3.8e-20 !   Shigella sonnei Ss046, complete genome
+NC_004337.2          -         OxyS_ST_rf           -          cm        1      110  4178413  4178306      -    no    1 0.49   0.0   96.1   3.8e-20 !   Shigella flexneri 2a str. 301 chromosome, complete genome
+NC_007606.1          -         OxyS_ST_rf           -          cm        1      110  3532403  3532296      -    no    1 0.49   0.0   96.1   3.8e-20 !   Shigella dysenteriae Sd197 chromosome, complete genome
+NC_007613.1          -         OxyS_ST_rf           -          cm        1      110  4016979  4016872      -    no    1 0.49   0.0   96.1   3.8e-20 !   Shigella boydii Sb227, complete genome
+NC_010658.1          -         OxyS_ST_rf           -          cm        1      110  4158739  4158632      -    no    1 0.49   0.0   96.1   3.8e-20 !   Shigella boydii CDC 3083-94, complete genome
+NC_007946.1          -         OxyS_ST_rf           -          cm        1      110  4445472  4445365      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli UTI89, complete genome
+NC_010473.1          -         OxyS_ST_rf           -          cm        1      110  4256112  4256005      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli str. K12 substr. DH10B, complete genome
+NC_000913.3          -         OxyS_ST_rf           -          cm        1      110  4158392  4158285      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli str. K-12 substr. MG1655, complete genome
+NC_011415.1          -         OxyS_ST_rf           -          cm        1      110  4427957  4427850      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli SE11 DNA, complete genome
+NC_011742.1          -         OxyS_ST_rf           -          cm        1      110  4392136  4392029      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli S88 chromosome, complete genome
+NC_013941.1          -         OxyS_ST_rf           -          cm        1      110  4852671  4852564      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O55:H7 str. CB9615, complete genome
+NC_013361.1          -         OxyS_ST_rf           -          cm        1      110  5123990  5123883      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O26:H11 str. 11368 DNA, complete genome
+NC_013008.1          -         OxyS_ST_rf           -          cm        1      110  5024202  5024095      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O157:H7 str. TW14359, complete genome
+NC_002695.1          -         OxyS_ST_rf           -          cm        1      110  4965029  4964922      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O157:H7 str. Sakai, complete genome
+NZ_CP008957.1        -         OxyS_ST_rf           -          cm        1      110  5052655  5052548      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O157:H7 str. EDL933, complete genome
+NC_011353.1          -         OxyS_ST_rf           -          cm        1      110  5068142  5068035      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O157:H7 str. EC4115, complete genome
+NC_013364.1          -         OxyS_ST_rf           -          cm        1      110  4845677  4845570      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O111:H- str. 11128 DNA, complete genome
+NC_013353.1          -         OxyS_ST_rf           -          cm        1      110  4868945  4868838      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli O103:H2 str. 12009 DNA, complete genome
+NC_011741.1          -         OxyS_ST_rf           -          cm        1      110  4247623  4247516      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli IAI1 chromosome, complete genome
+NC_009800.1          -         OxyS_ST_rf           -          cm        1      110  4188058  4187951      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli HS, complete genome
+NC_009801.1          -         OxyS_ST_rf           -          cm        1      110  4495504  4495397      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli E24377A, complete genome
+NC_004431.1          -         OxyS_ST_rf           -          cm        1      110  4688168  4688061      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli CFT073, complete genome
+NC_012759.1          -         OxyS_ST_rf           -          cm        1      110  4046084  4045977      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli BW2952, complete genome
+NZ_CP014268.2        -         OxyS_ST_rf           -          cm        1      110   294168   294061      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli B strain C2566, complete genome
+NC_012967.1          -         OxyS_ST_rf           -          cm        1      110  4138253  4138146      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli B str. REL606, complete genome
+NC_008563.1          -         OxyS_ST_rf           -          cm        1      110  4477486  4477379      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli APEC O1, complete genome
+NC_011748.1          -         OxyS_ST_rf           -          cm        1      110  4548337  4548230      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli 55989 chromosome, complete genome
+NC_008253.1          -         OxyS_ST_rf           -          cm        1      110  4367878  4367771      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli 536, complete genome
+NC_011601.1          -         OxyS_ST_rf           -          cm        1      110  4486367  4486260      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69
+NC_010498.1          -         OxyS_ST_rf           -          cm        1      110  4504215  4504108      -    no    1 0.49   0.0   96.1   3.8e-20 !   Escherichia coli SMS-3-5, complete genome
+NC_014121.1          -         OxyS_ST_rf           -          cm        1      110  5162465  5162573      +    no    1 0.57   0.0   65.4   9.2e-13 !   Enterobacter cloacae subsp. cloacae ATCC 13047 chromosome, complete genome
+NC_013282.2          -         OxyS_ST_rf           -          cm        1      110   207938   207827      -    no    1 0.49   0.0   53.2   8.2e-10 !   Cronobacter turicensis z3032 complete genome
+NC_009778.1          -         OxyS_ST_rf           -          cm        1      110  3752117  3752228      +    no    1 0.49   0.0   52.9   9.7e-10 !   Cronobacter sakazakii ATCC BAA-894, complete genome
+NC_012731.1          -         OxyS_ST_rf           -          cm        1      110   112266   112173      -    no    1 0.51   0.0   52.3   1.3e-09 !   Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA, complete genome
+NC_009648.1          -         OxyS_ST_rf           -          cm        1      110  4655188  4655095      -    no    1 0.51   0.0   52.3   1.3e-09 !   Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete genome
+NC_013850.1          -         OxyS_ST_rf           -          cm        1      110  5314064  5314157      +    no    1 0.49   0.0   49.7   5.7e-09 !   Klebsiella variicola At-22, complete genome
+NC_011283.1          -         OxyS_ST_rf           -          cm        1      110  5498234  5498327      +    no    1 0.49   0.0   49.4   6.8e-09 !   Klebsiella pneumoniae 342, complete genome
+NC_009832.1          -         OxyS_ST_rf           -          cm        1      110  5291153  5291225      +    no    1 0.51   0.0   26.3    0.0024 !   Serratia proteamaculans 568, complete genome
+NC_013592.1          -         OxyS_ST_rf           -          cm        1      110  4101347  4101245      -    no    1 0.58   0.0   21.3     0.038 ?   Dickeya zeae Ech586, complete genome
+NC_013282.2          -         OxyS_ST_rf           -          cm        1      110  2076445  2076344      -    no    1 0.66   0.0   21.0     0.047 ?   Cronobacter turicensis z3032 complete genome
+NC_011748.1          -         OxyS_ST_rf           -          cm        1      110  5113820  5113921      +    no    1 0.46   0.0   20.9     0.049 ?   Escherichia coli 55989 chromosome, complete genome
+NC_012125.1          -         OxyS_ST_rf           -          cm        1      110  2670465  2670368      -    no    1 0.57   0.0   20.8     0.051 ?   Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome
+NC_011080.1          -         OxyS_ST_rf           -          cm        1      110  1207151  1207248      +    no    1 0.57   0.0   20.8     0.051 ?   Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome
+NC_006905.1          -         OxyS_ST_rf           -          cm        1      110  1184227  1184324      +    no    1 0.57   0.0   20.8     0.051 ?   Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome
+NC_011149.1          -         OxyS_ST_rf           -          cm        1      110  1074804  1074901      +    no    1 0.57   0.0   20.8     0.051 ?   Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome
+NC_007606.1          -         OxyS_ST_rf           -          cm        1      110  4325606  4325707      +    no    1 0.47   0.0   19.1      0.13 ?   Shigella dysenteriae Sd197 chromosome, complete genome
+NC_010498.1          -         OxyS_ST_rf           -          cm        1      110  5028834  5028935      +    no    1 0.47   0.0   19.1      0.13 ?   Escherichia coli SMS-3-5, complete genome
+NC_011274.1          -         OxyS_ST_rf           -          cm        1      110  1091950  1092047      +    no    1 0.56   0.0   18.9      0.15 ?   Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91 complete genome
+NC_016810.1          -         OxyS_ST_rf           -          cm        1      110  1161134  1161231      +    no    1 0.56   0.0   18.9      0.15 ?   Salmonella enterica subsp. enterica serovar Typhimurium SL1344 complete genome
+NC_011094.1          -         OxyS_ST_rf           -          cm        1      110  1163486  1163583      +    no    1 0.56   0.0   18.9      0.15 ?   Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome
+NC_011083.1          -         OxyS_ST_rf           -          cm        1      110  1209540  1209637      +    no    1 0.56   0.0   18.9      0.15 ?   Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome
+NC_011294.1          -         OxyS_ST_rf           -          cm        1      110  1082662  1082759      +    no    1 0.56   0.0   18.9      0.15 ?   Salmonella enterica subsp. enterica serovar Enteritidis str. P125109 complete genome
+NC_012917.1          -         OxyS_ST_rf           -          cm        1      110  2117802  2117902      +    no    1 0.38   0.0   18.3       0.2 ?   Pectobacterium carotovorum subsp. carotovorum PC1, complete genome
+NC_009778.1          -         OxyS_ST_rf           -          cm        1      110  1953870  1953976      +    no    1 0.65   0.0   18.3      0.21 ?   Cronobacter sakazakii ATCC BAA-894, complete genome
+NC_013941.1          -         OxyS_ST_rf           -          cm        1      110  2010412  2010309      -    no    1 0.47   0.0   17.8      0.26 ?   Escherichia coli O55:H7 str. CB9615, complete genome
+NC_010554.1          -         OxyS_ST_rf           -          cm        1      110  2677497  2677406      -    no    1 0.41   0.0   17.5      0.32 ?   Proteus mirabilis strain HI4320, complete genome
+NZ_CP005998.1        -         OxyS_ST_rf           -          cm        1      110  2366398  2366297      -    no    1 0.46   0.0   17.5      0.33 ?   Escherichia coli B7A, complete genome
+NC_007384.1          -         OxyS_ST_rf           -          cm        1      110  4783336  4783437      +    no    1 0.46   0.0   17.5      0.33 ?   Shigella sonnei Ss046, complete genome
+NC_007613.1          -         OxyS_ST_rf           -          cm        1      110  4477980  4478081      +    no    1 0.46   0.0   17.5      0.33 ?   Shigella boydii Sb227, complete genome
+NC_010658.1          -         OxyS_ST_rf           -          cm        1      110  4574153  4574254      +    no    1 0.46   0.0   17.5      0.33 ?   Shigella boydii CDC 3083-94, complete genome
+NC_013364.1          -         OxyS_ST_rf           -          cm        1      110  5331304  5331405      +    no    1 0.46   0.0   17.5      0.33 ?   Escherichia coli O111:H- str. 11128 DNA, complete genome
+NC_011741.1          -         OxyS_ST_rf           -          cm        1      110  4659507  4659608      +    no    1 0.46   0.0   17.5      0.33 ?   Escherichia coli IAI1 chromosome, complete genome
+NC_009800.1          -         OxyS_ST_rf           -          cm        1      110  4603815  4603916      +    no    1 0.46   0.0   17.5      0.33 ?   Escherichia coli HS, complete genome
+NC_009778.1          -         OxyS_ST_rf           -          cm        1      110   621366   621458      +    no    1 0.57   0.0   17.1      0.39 ?   Cronobacter sakazakii ATCC BAA-894, complete genome
+NC_007779.1          -         OxyS_ST_rf           -          cm        1      110  4605181  4605282      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli str. K-12 substr. W3110 DNA, complete genome
+NC_010468.1          -         OxyS_ST_rf           -          cm        1      110  4042516  4042415      -    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli ATCC 8739, complete genome
+NC_012947.1          -         OxyS_ST_rf           -          cm        1      110  3823597  3823496      -    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli 'BL21-Gold(DE3)pLysS AG', complete genome
+NC_004337.2          -         OxyS_ST_rf           -          cm        1      110  4566797  4566898      +    no    1 0.47   0.0   17.1       0.4 ?   Shigella flexneri 2a str. 301 chromosome, complete genome
+NC_010473.1          -         OxyS_ST_rf           -          cm        1      110  4644986  4645087      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli str. K12 substr. DH10B, complete genome
+NC_000913.3          -         OxyS_ST_rf           -          cm        1      110  4600501  4600602      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli str. K-12 substr. MG1655, complete genome
+NC_011742.1          -         OxyS_ST_rf           -          cm        1      110  4944444  4944545      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli S88 chromosome, complete genome
+NC_013941.1          -         OxyS_ST_rf           -          cm        1      110  5297131  5297232      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O55:H7 str. CB9615, complete genome
+NC_013361.1          -         OxyS_ST_rf           -          cm        1      110  5657031  5657132      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O26:H11 str. 11368 DNA, complete genome
+NC_013008.1          -         OxyS_ST_rf           -          cm        1      110  5488544  5488645      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O157:H7 str. TW14359, complete genome
+NC_002695.1          -         OxyS_ST_rf           -          cm        1      110  5458859  5458960      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O157:H7 str. Sakai, complete genome
+NZ_CP008957.1        -         OxyS_ST_rf           -          cm        1      110  5507731  5507832      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O157:H7 str. EDL933, complete genome
+NC_011353.1          -         OxyS_ST_rf           -          cm        1      110  5532483  5532584      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O157:H7 str. EC4115, complete genome
+NC_013353.1          -         OxyS_ST_rf           -          cm        1      110  5353726  5353827      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli O103:H2 str. 12009 DNA, complete genome
+NC_009801.1          -         OxyS_ST_rf           -          cm        1      110  4939844  4939945      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli E24377A, complete genome
+NC_012759.1          -         OxyS_ST_rf           -          cm        1      110  4537008  4537109      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli BW2952, complete genome
+NZ_CP014268.2        -         OxyS_ST_rf           -          cm        1      110   726393   726292      -    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli B strain C2566, complete genome
+NC_012967.1          -         OxyS_ST_rf           -          cm        1      110  4589735  4589836      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli B str. REL606, complete genome
+NC_011415.1          -         OxyS_ST_rf           -          cm        1      110  4847760  4847861      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli SE11 DNA, complete genome
+NC_007946.1          -         OxyS_ST_rf           -          cm        1      110  4978269  4978370      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli UTI89, complete genome
+NC_008563.1          -         OxyS_ST_rf           -          cm        1      110  4994498  4994599      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli APEC O1, complete genome
+NC_011601.1          -         OxyS_ST_rf           -          cm        1      110  4925142  4925243      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69
+NC_011750.1          -         OxyS_ST_rf           -          cm        1      110  5042949  5043050      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli IAI39 chromosome, complete genome
+NC_004431.1          -         OxyS_ST_rf           -          cm        1      110  5189488  5189589      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli CFT073, complete genome
+NC_008253.1          -         OxyS_ST_rf           -          cm        1      110  4898735  4898836      +    no    1 0.47   0.0   17.1       0.4 ?   Escherichia coli 536, complete genome
+NC_009792.1          -         OxyS_ST_rf           -          cm        1      110  1635192  1635095      -    no    1 0.44   0.0   17.1      0.41 ?   Citrobacter koseri ATCC BAA-895, complete genome
+NC_014500.1          -         OxyS_ST_rf           -          cm        1      110  4906002  4906108      +    no    1 0.49   0.0   16.8      0.46 ?   Dickeya dadantii 3937, complete genome
+NC_011750.1          -         OxyS_ST_rf           -          cm        1      110  1864335  1864412      +    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli IAI39 chromosome, complete genome
+NC_007606.1          -         OxyS_ST_rf           -          cm        1      110  1519518  1519441      -    no    1 0.41   0.0   16.8      0.47 ?   Shigella dysenteriae Sd197 chromosome, complete genome
+NC_013941.1          -         OxyS_ST_rf           -          cm        1      110  1912717  1912794      +    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli O55:H7 str. CB9615, complete genome
+NC_013008.1          -         OxyS_ST_rf           -          cm        1      110  2021996  2022073      +    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli O157:H7 str. TW14359, complete genome
+NC_002695.1          -         OxyS_ST_rf           -          cm        1      110  2108419  2108496      +    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli O157:H7 str. Sakai, complete genome
+NZ_CP008957.1        -         OxyS_ST_rf           -          cm        1      110  1987366  1987289      -    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli O157:H7 str. EDL933, complete genome
+NC_011353.1          -         OxyS_ST_rf           -          cm        1      110  2023020  2023097      +    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli O157:H7 str. EC4115, complete genome
+NC_011741.1          -         OxyS_ST_rf           -          cm        1      110  1594142  1594219      +    no    1 0.41   0.0   16.8      0.47 ?   Escherichia coli IAI1 chromosome, complete genome
+NC_009648.1          -         OxyS_ST_rf           -          cm        1      110  2117000  2116912      -    no    1 0.40   0.0   16.6      0.54 ?   Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete genome
+NZ_CP005998.1        -         OxyS_ST_rf           -          cm        1      110   698785   698862      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli B7A, complete genome
+NC_013353.1          -         OxyS_ST_rf           -          cm        1      110  1729878  1729955      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli O103:H2 str. 12009 DNA, complete genome
+NC_010468.1          -         OxyS_ST_rf           -          cm        1      110  2356692  2356615      -    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli ATCC 8739, complete genome
+NC_012947.1          -         OxyS_ST_rf           -          cm        1      110  2239728  2239651      -    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli 'BL21-Gold(DE3)pLysS AG', complete genome
+NC_011415.1          -         OxyS_ST_rf           -          cm        1      110  1684251  1684328      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli SE11 DNA, complete genome
+NC_013361.1          -         OxyS_ST_rf           -          cm        1      110  2065386  2065463      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli O26:H11 str. 11368 DNA, complete genome
+NC_013364.1          -         OxyS_ST_rf           -          cm        1      110  1920981  1921058      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli O111:H- str. 11128 DNA, complete genome
+NC_009800.1          -         OxyS_ST_rf           -          cm        1      110  1603997  1604074      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli HS, complete genome
+NC_009801.1          -         OxyS_ST_rf           -          cm        1      110  1697010  1697087      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli E24377A, complete genome
+NZ_CP014268.2        -         OxyS_ST_rf           -          cm        1      110  2271510  2271587      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli B strain C2566, complete genome
+NC_012967.1          -         OxyS_ST_rf           -          cm        1      110  1561125  1561202      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli B str. REL606, complete genome
+NC_011748.1          -         OxyS_ST_rf           -          cm        1      110  1699544  1699621      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli 55989 chromosome, complete genome
+NC_007779.1          -         OxyS_ST_rf           -          cm        1      110  1588888  1588965      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli str. K-12 substr. W3110 DNA, complete genome
+NC_010473.1          -         OxyS_ST_rf           -          cm        1      110  1675793  1675870      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli str. K12 substr. DH10B, complete genome
+NC_000913.3          -         OxyS_ST_rf           -          cm        1      110  1587174  1587251      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli str. K-12 substr. MG1655, complete genome
+NC_012759.1          -         OxyS_ST_rf           -          cm        1      110  1477257  1477334      +    no    1 0.41   0.0   16.4       0.6 ?   Escherichia coli BW2952, complete genome
+NC_004337.2          -         OxyS_ST_rf           -          cm        1      110  1573753  1573830      +    no    1 0.41   0.0   16.4       0.6 ?   Shigella flexneri 2a str. 301 chromosome, complete genome
+NC_013592.1          -         OxyS_ST_rf           -          cm        1      110  4495281  4495357      +    no    1 0.51   0.0   16.3      0.62 ?   Dickeya zeae Ech586, complete genome
+NC_012731.1          -         OxyS_ST_rf           -          cm        1      110  2849310  2849222      -    no    1 0.42   0.0   16.3      0.62 ?   Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA, complete genome
+NC_012214.1          -         OxyS_ST_rf           -          cm        1      110  1789799  1789920      +    no    1 0.54   0.0   16.2      0.67 ?   Erwinia pyrifoliae strain Ep1/96 complete chromosome
+NC_013892.1          -         OxyS_ST_rf           -          cm        1      110  3104670  3104766      +    no    1 0.36   0.0   16.1       0.7 ?   Xenorhabdus bovienii SS-2004 chromosome, complete genome
+NC_014500.1          -         OxyS_ST_rf           -          cm       73      109   222710   222676      -    no    1 0.60   0.0   15.9      0.77 ?   Dickeya dadantii 3937, complete genome
+NC_011750.1          -         OxyS_ST_rf           -          cm        1      110  1468370  1468267      -    no    1 0.54   0.0   15.7      0.85 ?   Escherichia coli IAI39 chromosome, complete genome
+NC_007946.1          -         OxyS_ST_rf           -          cm        1      110  1774636  1774739      +    no    1 0.54   0.0   15.7      0.85 ?   Escherichia coli UTI89, complete genome
+NC_011742.1          -         OxyS_ST_rf           -          cm        1      110  1703069  1703172      +    no    1 0.54   0.0   15.7      0.85 ?   Escherichia coli S88 chromosome, complete genome
+NC_008563.1          -         OxyS_ST_rf           -          cm        1      110  1755863  1755966      +    no    1 0.54   0.0   15.7      0.85 ?   Escherichia coli APEC O1, complete genome
+NC_010498.1          -         OxyS_ST_rf           -          cm        1      110  1664959  1664882      -    no    1 0.42   0.0   15.7      0.87 ?   Escherichia coli SMS-3-5, complete genome
+NC_007384.1          -         OxyS_ST_rf           -          cm        1      110  1702350  1702273      -    no    1 0.42   0.0   15.7      0.87 ?   Shigella sonnei Ss046, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.2 (July 2016)
+# Pipeline mode:   SEARCH
+# Query file:      /home/hdutcher/iwa/global_entero/yersinia/04_hm_models/OxyS_ST_rf.cm
+# Target file:     /home/hdutcher/iwa/global_entero/oxyS/sal_hypo/all_tree_genomes.fa
+# Option settings: cmsearch -Z 4 --tblout OxyS_ST_rf_v_tree_relaxed.txt -E 1.0 --cpu 36 /home/hdutcher/iwa/global_entero/yersinia/04_hm_models/OxyS_ST_rf.cm /home/hdutcher/iwa/global_entero/oxyS/sal_hypo/all_tree_genomes.fa 
+# Current dir:     /mnt/iwa/home/hdutcher/global_entero/relaxed_cmsearch
+# Date:            Fri Jun  8 18:56:30 2018
+# [ok]
